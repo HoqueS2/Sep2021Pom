@@ -5,6 +5,7 @@ public class DemoPage {
 	
 	public void Demo() {
 		int i =10;
+		String name = "Prasent";
 	}
 
 }
